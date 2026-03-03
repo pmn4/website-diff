@@ -1,0 +1,13 @@
+{
+  "name": "website-diff",
+  "version": "1.0.0",
+  "description": "Watch a website for changes; alert when diff detected. Uses Playwright for JS-rendered content.",
+  "main": "watch-nav.js",
+  "type": "module",
+  "bin": {
+    "watch-nav": "./watch-nav.js"
+  },
+  "dependencies": {
+    "playwright": "^1.58.2"
+  }
+}

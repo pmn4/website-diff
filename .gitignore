@@ -1,0 +1,5 @@
+# Config and state (saved in .watch/)
+.watch/
+
+# Dependencies
+node_modules/
